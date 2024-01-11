@@ -1,0 +1,1 @@
+console.log("Container configuration done successfully");
